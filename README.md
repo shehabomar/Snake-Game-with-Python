@@ -1,7 +1,7 @@
 # Snake-Game-with-Python
 
 
-![Snake Game Demo](https://im5.ezgif.com/tmp/ezgif-5-6c333cd420.gif)
+![Snake Game Demo](https://im5.ezgif.com/tmp/ezgif-5-01c2c023a8.gif)
 
 
 ### Description
